@@ -1,4 +1,4 @@
-// adapted from paperboy (TODO: full reference)
+// this code adapted from https://github.com/felixge/node-paperboy/
 exports.contentTypes = {
   "aiff": "audio/x-aiff",
   "arj": "application/x-arj-compressed",
