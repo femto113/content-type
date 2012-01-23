@@ -27,10 +27,11 @@ type for a given file.
     console.log(contentType.contentTypes.jpg);
     // output: "image/jpeg"
 
-    // 
+    // get known extensions for given type
     console.log(contentType.extensions["image/jpeg"]);
     // output: ["jpeg", "jpg"]
 
+    // get content type for given file
     console.log(contentType.byFilename("foo.html"));
     // output: "text/html"
 
