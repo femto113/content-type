@@ -1,0 +1,10 @@
+{
+  "name" : "content-type"
+  , "description" : "file extension to content-type (aka mime type) mappings."
+  , "tags" : ["content", "mime", "type"]
+  , "version" : "0.1.000"
+  , "author" : "Ken Woodruff <ken.woodruff@gmail.com>"
+  , "repository" : { "type" : "git", "url" : "http://github.com/femto113/content-type.git" }
+  , "bugs" : { "url" : "http://github.com/femto113/content-type/issues" }
+  , "main" : "content-type.js"
+}
