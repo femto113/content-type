@@ -1,3 +1,6 @@
+
+> #NOTE: This package is unmaintained, I recommend using [node-mime](https://github.com/bentomas/node-mime) instead.
+
 # content-type
 
 Filename to content-type (aka mime type) mappings.
